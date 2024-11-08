@@ -26,7 +26,4 @@ int main()
 
     printf("Bill= %f",bill);
 
-
-
-
 }
